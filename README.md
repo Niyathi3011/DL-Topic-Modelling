@@ -18,4 +18,4 @@ pip install umap-learn
 ```
 
 3. Please refer to DL_Project_Final.ipynb to reproduce Figures 1, 2, 3, 4, and Figures 6, 7. 
-4. Please refer to BERTopic.ipynb to reproduce Figure 8, 9, 10.
+4. Please refer to BERTopic.ipynb to reproduce Figure 8, 9, 10 after data pre-processing.
